@@ -11,6 +11,7 @@ function App() {
         </p>
       </header>
         <h1>Hola mundo</h1>
+        <h2>Hola!!</h2>
     </div>
   );
 }
