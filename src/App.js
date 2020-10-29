@@ -12,6 +12,9 @@ function App() {
       </header>
         <h1>Hola mundo</h1>
         <h2>Hola!!</h2>
+        <h2>Mi avance 1</h2>
+        <h2>Continuación</h2>
+
     </div>
   );
 }
