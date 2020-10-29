@@ -10,6 +10,7 @@ function App() {
           Ejemplo GitHub
         </p>
       </header>
+        <h1>Hola mundo</h1>
     </div>
   );
 }
